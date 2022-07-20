@@ -6,7 +6,7 @@ Simple Hospital Management System
 
 This is a programming and database management app designed as a centralized system for hospitals to digitize and handle huge data ( like patient details, appointments made, results of lab tests, patient diagnosis information, etc.). This is one of the best computer science project ideas that can add value to your resume.  
 
-Developing a hospital management system is easy for beginners. A functional and effective hospital management system can be created with the basic knowledge of HTML and CSS. 
+Developing a hospital management system is easy for beginners. A functional and effective hospital management system can be created with the basic knowledge of PHP, Javascript and CSS. 
 
 The system should be able to receive new entries, store them safely and enable hospital staff and system administrators to access, and use the data. 
 
